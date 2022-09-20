@@ -9,7 +9,7 @@ I am a motivated person, autonomous and I know how to work in a team. 🤝🏻</
 <br>
 
 <h2>Visit my accounts or contact me :</h2>
-<a href="https://github.com/MathildeJNL/Projet-Personnel" target="_blank"><img alt="website" src="	https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+<a href="https://mathildejnl.github.io/Projet-Personnel/" target="_blank"><img alt="website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/mathilde-jnl/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/MathildeJNL" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 
