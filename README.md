@@ -45,4 +45,5 @@ I am a motivated person, autonomous and I know how to work in a team. 🤝🏻</
 <br>
 <br>
 
-<img style="background: white" alt="Github" src="./github-user-contribution.svg"/>
+![GitHub Snake Light](./github-user-contribution.svg#gh-light-mode-only)
+![GitHub Snake dark](./github-user-contribution.svg#gh-dark-mode-only)
